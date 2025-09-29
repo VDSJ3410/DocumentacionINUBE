@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Datos](README.md)
+* [Datos Primitivos](README.md)
